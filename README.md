@@ -1,8 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I’m Sayan, Nice to see you.
 
 ### <img src="https://github.com/sayanmoulick/sayanmoulick/blob/main/Assets/Developer.gif" width="45" /> About Me:
-- 👋 I’m a SDET with 4+ years of working experience in manual testing and automation testing
-- 👀 currently working as Quality Analyst
+
 - 💞️ Tech stack I work on and tools I use on almost daily basis
     <p align="center">
           <img src="https://github.com/sayanmoulick/sayanmoulick/blob/main/Assets/selenium.svg" alt="selenium" width="55" height="55"/>
